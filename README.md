@@ -5,7 +5,7 @@ Learning Laravel in India offers practical skills for web development, providing
 ### To Download Our Brochure [Click Here](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296]
 
-### 1. [JustAcademy:]
+### 1. [JustAcademy:](https://www.justacademy.co/)
    -Enrolling in JustAcademy for your laravel developer course offers a unique blend of quality education and practical industry insights. JustAcademy provides an opportunity to  learn laravel. Their industry-aligned curriculum, experienced instructors, and career support services make JustAcademy the ideal choice for launching your career as a proficient Laravel developer.
 
 ### Browse their course link : https://www.justacademy.co/all-courses 
