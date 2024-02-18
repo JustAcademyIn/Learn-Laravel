@@ -3,7 +3,7 @@
 Learning Laravel in India offers practical skills for web development, providing access to quality institutes like Laravel Training Institute and Eduonix Learning Solutions. With structured courses, hands-on projects, and certification, mastering Laravel enhances career prospects, making it a lucrative opportunity for software development enthusiasts. Here is a list of institutes in India that can be used to learn laravel along with brief explanations about each of them:
 
 ### To Download Our Brochure [Click Here](https://www.justacademy.co/download-brochure-for-free)
-### Message us for more information [+91 9987184296]
+### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=9987184296)
 
 ### 1. [JustAcademy:](https://www.justacademy.co/)
    -Enrolling in JustAcademy for your laravel developer course offers a unique blend of quality education and practical industry insights. JustAcademy provides an opportunity to  learn laravel. Their industry-aligned curriculum, experienced instructors, and career support services make JustAcademy the ideal choice for launching your career as a proficient Laravel developer.
